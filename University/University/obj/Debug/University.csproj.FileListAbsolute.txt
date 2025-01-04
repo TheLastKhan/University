@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\University\University\bin\Debug\University.exe.config
+C:\Users\hakan\source\repos\University\University\bin\Debug\University.exe
+C:\Users\hakan\source\repos\University\University\bin\Debug\University.pdb
+C:\Users\hakan\source\repos\University\University\obj\Debug\University.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\University\University\obj\Debug\University.Form1.resources
+C:\Users\hakan\source\repos\University\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\hakan\source\repos\University\University\obj\Debug\University.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\University\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\University\University\obj\Debug\University.exe
+C:\Users\hakan\source\repos\University\University\obj\Debug\University.pdb
+C:\Users\hakan\source\repos\University\University\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hakan\source\repos\University\University\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hakan\source\repos\University\University\obj\Debug\University.csproj.Up2Date
